@@ -51,7 +51,7 @@ def visualize_binary(file_path):
     print("Displaying...")
 
     # Save or display the visualization
-    plt.savefig("binary_visualization1.jpg", dpi=300)
+    plt.savefig("binary_visualization0.jpg", dpi=300)
     plt.show()
 
 
@@ -76,4 +76,4 @@ def generate_unique_color(binary_str):
 
 
 # Example usage
-visualize_binary("1kb.png")
+visualize_binary("testfile.txt")
