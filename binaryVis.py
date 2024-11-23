@@ -76,4 +76,4 @@ def generate_unique_color(binary_str):
 
 
 # Example usage
-visualize_binary("akita.jpg")
+visualize_binary("1kb.png")
