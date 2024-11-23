@@ -51,8 +51,8 @@ def visualize_binary(file_path):
     print("Displaying...")
 
     # Save or display the visualization
-    plt.savefig("./output/binary_visualization0.jpg", dpi=300)
-    plt.show()
+    plt.savefig("./output/binary_visualization1.jpg", dpi=300)
+    #plt.show() # currently doesn't work
 
 
 def createList(data):
